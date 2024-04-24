@@ -9,13 +9,13 @@ import "./social-btns.scss"
 export function SocialBtns(){
     return(
         <div className="social">
-            <a href="https://www.instagram.com/kipper.dev/">
+            <a href="https://www.instagram.com/vulgo_burak/">
                 <InstaIcon/>
             </a>
-            <a href="https://www.linkedin.com/in/fernanda-kipper/">
+            <a href="https://www.linkedin.com/in/matheus-bitencourt-370a16192/">
                 <LinkedInIcon/>
             </a>
-            <a href="https://github.com/Fernanda-Kipper">
+            <a href="https://github.com/Matheus-kb">
                 <GitHubIcon/>
             </a>
             <a href="">
